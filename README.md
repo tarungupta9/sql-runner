@@ -39,7 +39,7 @@ npm run dev
 ```
 
 ### Demo Video
-
+> [URL](https://drive.google.com/file/d/1Xd2n4-QHYFTeMjT5BeuFpcDM8Dfzgm1g/view?usp=sharing)
 
 ### Deployed URL
 > [SQL Runner](https://sql-runner-seven.vercel.app/)
